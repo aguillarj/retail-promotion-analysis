@@ -4,7 +4,7 @@
 
 **Author:** Jacob Aguillard  
 **Contact:** aguillarj@gmail.com  
-**LinkedIn:** [linkedin.com/in/jacobaguillard](https://linkedin.com/in/jacobaguillard)
+**LinkedIn:** [linkedin.com/in/jacobaguillard](www.linkedin.com/in/jacob-aguillard-24851015a)
 
 ---
 
