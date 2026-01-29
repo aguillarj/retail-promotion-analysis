@@ -151,12 +151,12 @@ GROUPS WHERE END_CAP SIGNIFICANTLY HELPS:
 
 ## Skills Demonstrated
 
-- ✅ **Statistical Analysis** - Hypothesis testing, effect sizes, significance interpretation
-- ✅ **Python Programming** - Clean, documented, reusable functions
-- ✅ **Data Wrangling** - Handling messy data, outliers, missing values
-- ✅ **Business Acumen** - Translating stats into actionable recommendations
-- ✅ **Data Visualization** - Clear, informative charts
-- ✅ **Documentation** - Well-structured code and explanations
+- **Statistical Analysis** - Hypothesis testing, effect sizes, significance interpretation
+- **Python Programming** - Clean, documented, reusable functions
+- **Data Wrangling** - Handling messy data, outliers, missing values
+- **Business Acumen** - Translating stats into actionable recommendations
+- **Data Visualization** - Clear, informative charts
+- **Documentation** - Well-structured code and explanations
 
 ---
 
